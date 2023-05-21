@@ -1,5 +1,5 @@
 # Meta-transcation
-Meta transactions allow users to perform transactions on the Ethereum network without directly paying for gas fees. Instead, a relayer or a designated third party covers the gas fees on behalf of the user.
+Meta transactions allow users to perform transactions on the network without directly paying for gas fees. Instead, a relayer or a designated third party covers the gas fees on behalf of the user.
 
 ## Description
 The Meta Transaction DApp provides a user interface where users can initiate meta transactions by specifying the recipient address and the desired amount to transfer. The application utilizes a backend server to handle the transaction relaying process.
